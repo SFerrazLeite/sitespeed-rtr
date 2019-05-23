@@ -1,0 +1,1 @@
+This is a quick prtototype to see if I can implement a UI for a speedtest buildin on the existing RTR js client.
